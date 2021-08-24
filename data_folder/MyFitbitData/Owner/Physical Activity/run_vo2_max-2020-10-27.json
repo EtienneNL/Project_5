@@ -1,0 +1,172 @@
+[{
+  "dateTime" : "12/12/20 17:29:51",
+  "value" : {
+    "exerciseId" : 36238419744,
+    "runVO2Max" : 51.30583000000001,
+    "runVO2MaxError" : 3.8161400000000003,
+    "filteredRunVO2Max" : 51.30583000000001,
+    "filteredRunVO2MaxError" : 3.8161400000000003
+  }
+},{
+  "dateTime" : "12/31/20 12:11:43",
+  "value" : {
+    "exerciseId" : 36607801471,
+    "runVO2Max" : 52.25506000000001,
+    "runVO2MaxError" : 3.1391500000000003,
+    "filteredRunVO2Max" : 51.87812,
+    "filteredRunVO2MaxError" : 1.8926100000000001
+  }
+},{
+  "dateTime" : "01/15/21 17:36:23",
+  "value" : {
+    "exerciseId" : 36946163271,
+    "runVO2Max" : 55.30238000000001,
+    "runVO2MaxError" : 3.9419500000000003,
+    "filteredRunVO2Max" : 53.252390000000005,
+    "filteredRunVO2MaxError" : 1.5820400000000001
+  }
+},{
+  "dateTime" : "01/24/21 11:43:43",
+  "value" : {
+    "exerciseId" : 37131153789,
+    "runVO2Max" : 51.673820000000006,
+    "runVO2MaxError" : 3.37997,
+    "filteredRunVO2Max" : 52.65968,
+    "filteredRunVO2MaxError" : 1.2690700000000001
+  }
+},{
+  "dateTime" : "02/06/21 10:13:20",
+  "value" : {
+    "exerciseId" : 37429838163,
+    "runVO2Max" : 53.57921,
+    "runVO2MaxError" : 2.7605600000000003,
+    "filteredRunVO2Max" : 53.036770000000004,
+    "filteredRunVO2MaxError" : 1.1320700000000001
+  }
+},{
+  "dateTime" : "02/11/21 16:42:27",
+  "value" : {
+    "exerciseId" : 37533931627,
+    "runVO2Max" : 52.84122000000001,
+    "runVO2MaxError" : 3.2709,
+    "filteredRunVO2Max" : 52.978680000000004,
+    "filteredRunVO2MaxError" : 0.97155
+  }
+},{
+  "dateTime" : "04/01/21 17:40:15",
+  "value" : {
+    "exerciseId" : 38673674817,
+    "runVO2Max" : 54.78842,
+    "runVO2MaxError" : 4.16514,
+    "filteredRunVO2Max" : 53.79486000000001,
+    "filteredRunVO2MaxError" : 1.8784500000000002
+  }
+},{
+  "dateTime" : "04/09/21 16:41:23",
+  "value" : {
+    "exerciseId" : 38871441692,
+    "runVO2Max" : 53.30172,
+    "runVO2MaxError" : 3.68874,
+    "filteredRunVO2Max" : 53.60656,
+    "filteredRunVO2MaxError" : 1.40847
+  }
+},{
+  "dateTime" : "04/16/21 16:49:09",
+  "value" : {
+    "exerciseId" : 39047465692,
+    "runVO2Max" : 53.36565,
+    "runVO2MaxError" : 2.26457,
+    "filteredRunVO2Max" : 53.501250000000006,
+    "filteredRunVO2MaxError" : 0.98984
+  }
+},{
+  "dateTime" : "04/18/21 10:43:01",
+  "value" : {
+    "exerciseId" : 39076354947,
+    "runVO2Max" : 55.33064,
+    "runVO2MaxError" : 3.79455,
+    "filteredRunVO2Max" : 53.90943000000001,
+    "filteredRunVO2MaxError" : 0.8466600000000001
+  }
+},{
+  "dateTime" : "04/23/21 16:50:51",
+  "value" : {
+    "exerciseId" : 39235628452,
+    "runVO2Max" : 55.561820000000004,
+    "runVO2MaxError" : 2.7973100000000004,
+    "filteredRunVO2Max" : 54.374790000000004,
+    "filteredRunVO2MaxError" : 0.7878000000000001
+  }
+},{
+  "dateTime" : "05/05/21 05:28:21",
+  "value" : {
+    "exerciseId" : 39511745565,
+    "runVO2Max" : 56.67099,
+    "runVO2MaxError" : 3.3736500000000005,
+    "filteredRunVO2Max" : 55.044050000000006,
+    "filteredRunVO2MaxError" : 0.9833000000000001
+  }
+},{
+  "dateTime" : "05/11/21 05:48:26",
+  "value" : {
+    "exerciseId" : 39659771134,
+    "runVO2Max" : 55.595940000000006,
+    "runVO2MaxError" : 3.04701,
+    "filteredRunVO2Max" : 55.207600000000006,
+    "filteredRunVO2MaxError" : 0.9029900000000001
+  }
+},{
+  "dateTime" : "05/13/21 06:47:47",
+  "value" : {
+    "exerciseId" : 39711920029,
+    "runVO2Max" : 56.308020000000006,
+    "runVO2MaxError" : 4.61974,
+    "filteredRunVO2Max" : 55.403890000000004,
+    "filteredRunVO2MaxError" : 0.8240700000000001
+  }
+},{
+  "dateTime" : "06/19/21 16:04:17",
+  "value" : {
+    "exerciseId" : 40641991754,
+    "runVO2Max" : 54.18410000000001,
+    "runVO2MaxError" : 3.30187,
+    "filteredRunVO2Max" : 54.85806,
+    "filteredRunVO2MaxError" : 1.4774900000000002
+  }
+},{
+  "dateTime" : "07/05/21 07:35:29",
+  "value" : {
+    "exerciseId" : 41051257890,
+    "runVO2Max" : 54.577380000000005,
+    "runVO2MaxError" : 6.158110000000001,
+    "filteredRunVO2Max" : 54.78228000000001,
+    "filteredRunVO2MaxError" : 1.6626
+  }
+},{
+  "dateTime" : "07/07/21 05:51:11",
+  "value" : {
+    "exerciseId" : 41083752468,
+    "runVO2Max" : 56.43285,
+    "runVO2MaxError" : 5.23542,
+    "filteredRunVO2Max" : 55.198010000000004,
+    "filteredRunVO2MaxError" : 1.31865
+  }
+},{
+  "dateTime" : "07/13/21 17:10:16",
+  "value" : {
+    "exerciseId" : 41251463818,
+    "runVO2Max" : 51.6129,
+    "runVO2MaxError" : 3.9334400000000005,
+    "filteredRunVO2Max" : 54.15281,
+    "filteredRunVO2MaxError" : 1.1467500000000002
+  }
+},{
+  "dateTime" : "07/15/21 16:36:47",
+  "value" : {
+    "exerciseId" : 41297432044,
+    "runVO2Max" : 54.45712,
+    "runVO2MaxError" : 5.267460000000001,
+    "filteredRunVO2Max" : 54.21105000000001,
+    "filteredRunVO2MaxError" : 1.0081300000000002
+  }
+}]
